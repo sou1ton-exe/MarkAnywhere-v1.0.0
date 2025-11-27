@@ -1,0 +1,8 @@
+C:\Users\Gigabyte G6X\source\repos\MarkAnywhere\MarkAnywhere\bin\Debug\MarkAnywhere.exe.config
+C:\Users\Gigabyte G6X\source\repos\MarkAnywhere\MarkAnywhere\bin\Debug\MarkAnywhere.exe
+C:\Users\Gigabyte G6X\source\repos\MarkAnywhere\MarkAnywhere\bin\Debug\MarkAnywhere.pdb
+C:\Users\Gigabyte G6X\source\repos\MarkAnywhere\MarkAnywhere\obj\Debug\MarkAnywhere.csproj.AssemblyReference.cache
+C:\Users\Gigabyte G6X\source\repos\MarkAnywhere\MarkAnywhere\obj\Debug\MarkAnywhere.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte G6X\source\repos\MarkAnywhere\MarkAnywhere\obj\Debug\MarkAnywhere.exe
+C:\Users\Gigabyte G6X\source\repos\MarkAnywhere\MarkAnywhere\obj\Debug\MarkAnywhere.pdb
+C:\Users\Gigabyte G6X\source\repos\MarkAnywhere\MarkAnywhere\obj\Debug\MarkAnywhere.exe.config
